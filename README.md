@@ -8,4 +8,4 @@ The example should take no longer than a couple of minutes to finish with a fair
 
 ## Trying it out
 
-To run the example simply fetch all the dependencies, and then execute `go run main.go`
+To run the example, simply fetch all the dependencies and then execute `go run main.go`
